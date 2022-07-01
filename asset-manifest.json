@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio1/static/css/main.2c6f8fdc.css",
+    "main.js": "/Portfolio1/static/js/main.2926e28a.js",
+    "static/media/work.png": "/Portfolio1/static/media/work.200edac585b377dfb883.png",
+    "static/media/ajmal.png": "/Portfolio1/static/media/ajmal.3dfb1eb139db40e89821.png",
+    "static/media/logo1.png": "/Portfolio1/static/media/logo1.d63f02a4434db4bf3343.png",
+    "static/media/react.png": "/Portfolio1/static/media/react.581289b9c91fd811832c.png",
+    "index.html": "/Portfolio1/index.html",
+    "main.2c6f8fdc.css.map": "/Portfolio1/static/css/main.2c6f8fdc.css.map",
+    "main.2926e28a.js.map": "/Portfolio1/static/js/main.2926e28a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c6f8fdc.css",
+    "static/js/main.2926e28a.js"
+  ]
+}
